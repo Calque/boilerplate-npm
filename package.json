@@ -1,7 +1,7 @@
 l{
 	"name": "fcc-learn-npm-package-json",
 	"author": "jem",
-	"description": "lame";
+	"description": "lame",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
